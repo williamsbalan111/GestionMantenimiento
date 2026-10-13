@@ -1,0 +1,11 @@
+D:\Trabajo\Programar\GestionMantenimiento\src\main\java\domain\model\Equipo.java
+D:\Trabajo\Programar\GestionMantenimiento\src\main\java\domain\model\SolicitudMantenimiento.java
+D:\Trabajo\Programar\GestionMantenimiento\src\main\java\domain\model\Tecnico.java
+D:\Trabajo\Programar\GestionMantenimiento\src\main\java\domain\model\Usuario.java
+D:\Trabajo\Programar\GestionMantenimiento\src\main\java\domain\model\UsuarioSolicitante.java
+D:\Trabajo\Programar\GestionMantenimiento\src\main\java\infrastructure\api\EquipoAPI.java
+D:\Trabajo\Programar\GestionMantenimiento\src\main\java\infrastructure\api\SolicitudAPI.java
+D:\Trabajo\Programar\GestionMantenimiento\src\main\java\infrastructure\email\EmailService.java
+D:\Trabajo\Programar\GestionMantenimiento\src\main\java\Main.java
+D:\Trabajo\Programar\GestionMantenimiento\src\main\java\service\EquipoService.java
+D:\Trabajo\Programar\GestionMantenimiento\src\main\java\service\SolicitudService.java

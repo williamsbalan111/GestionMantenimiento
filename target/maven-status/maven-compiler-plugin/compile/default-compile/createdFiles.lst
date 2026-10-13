@@ -1,0 +1,12 @@
+domain\model\SolicitudMantenimiento.class
+Main.class
+infrastructure\email\EmailService.class
+domain\model\Equipo.class
+domain\model\Usuario.class
+domain\model\Tecnico.class
+infrastructure\api\EquipoAPI.class
+domain\model\UsuarioSolicitante.class
+infrastructure\api\SolicitudAPI.class
+infrastructure\email\EmailService$1.class
+service\EquipoService.class
+service\SolicitudService.class
